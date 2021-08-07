@@ -66,17 +66,17 @@
         "userIcon": ""
     },
     {
-        "name": "DarthDodo",
-        "allyCode": "124817765",
-        "tagIdOnClimb": "",
-        "tagIdOnDrop": "705134341336072214",
-        "userIcon": ""
-    },
-    {
         "name": "Ahsoka3D",
         "allyCode": "729119536",
         "tagIdOnClimb": "",
         "tagIdOnDrop": "784616888621727796",
+        "userIcon": ""
+    },
+    {
+        "name": "DarthDodo",
+        "allyCode": "124817765",
+        "tagIdOnClimb": "",
+        "tagIdOnDrop": "705134341336072214",
         "userIcon": ""
     },
     {
@@ -106,6 +106,13 @@
         "allyCode": "487297721",
         "tagIdOnClimb": "",
         "tagIdOnDrop": "479813413980078080",
+        "userIcon": ""
+    },
+    {
+        "name": "Jaded",
+        "allyCode": "363134246",
+        "tagIdOnClimb": "",
+        "tagIdOnDrop": "723354179661332480",
         "userIcon": ""
     }
 ]
